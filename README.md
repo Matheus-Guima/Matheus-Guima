@@ -1,9 +1,9 @@
 ### Olá! Eu sou Matheus Guimarães👋
 
-- 🔭 Hoje trabalho como desenvolvedor RPA
-- 🌱 Estudando front-end e Python
-- 📫 E-mail: guimaraesmrocha@gmail.com 
-- 😄 Pronouns: ele/dele
+- 🔭 Hoje trabalho como desenvolvedor RPA<br>
+- 🌱 Estudando front-end e Python<br>
+- 📫 E-mail: guimaraesmrocha@gmail.com<br> 
+- 😄 Pronouns: ele/dele 
 
 
 <div align="center">
@@ -21,20 +21,21 @@
   <img align="center" alt="Math-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Math-Pluplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Math-PostG" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src=https://user-images.githubusercontent.com/72471265/169670187-f64c831b-1925-43c0-9992-57d13a06907e.gif>
+  <img align="right" alt="Math-Gif" height="200" style="border-radius:50px;" src=https://user-images.githubusercontent.com/72471265/169670187-f64c831b-1925-43c0-9992-57d13a06907e.gif>
 </div>
+  
   
   ##
   
 <div> 
   <a href = "mailto:guimaraesmrocha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-guimar%C3%A3es-94b2b1179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src=https://user-images.githubusercontent.com/72471265/169670187-f64c831b-1925-43c0-9992-57d13a06907e.gif>
+  
+  
+  
 
 
 
