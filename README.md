@@ -1,15 +1,15 @@
 ### Olá! Eu sou Matheus Guimarães👋
+##
 
-- 🔭 Hoje trabalho como desenvolvedor RPA<br>
-- 🌱 Estudando front-end e Python<br>
-- 📫 E-mail: guimaraesmrocha@gmail.com<br> 
-- 😄 Pronouns: ele/dele 
+- 🔭 Hoje trabalho como desenvolvedor RPA
+- 🌱 Estudando front-end e Python
+- 📫 E-mail: guimaraesmrocha@gmail.com
 
 
 <div align="center">
   <a href="https://github.com/Matheus-Guima">
-  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=Matheus-Guima&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Guima&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api?username=Matheus-Guima&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Guima&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -23,7 +23,6 @@
   <img align="center" alt="Math-PostG" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="right" alt="Math-Gif" height="200" style="border-radius:50px;" src=https://user-images.githubusercontent.com/72471265/169670187-f64c831b-1925-43c0-9992-57d13a06907e.gif>
 </div>
-  
   
   ##
   
