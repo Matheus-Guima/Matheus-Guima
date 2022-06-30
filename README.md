@@ -2,7 +2,7 @@
 ##
 
 - 🔭 Hoje trabalho como desenvolvedor RPA
-- 🌱 Estudando front-end e Python
+- 🌱 Estudando Front-end e Python
 - 📫 E-mail: guimaraesmrocha@gmail.com
 
 
