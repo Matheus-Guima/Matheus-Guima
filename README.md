@@ -1,7 +1,7 @@
 ### Olá! Eu sou Matheus Guimarães👋
 ##
 
-- 🔭 Hoje trabalho como desenvolvedor RPA
+- 🔭 Hoje trabalho como desenvolvedor front-end Salesforce
 - 🌱 Estudando Front-end e Python
 - 📫 E-mail: guimaraesmrocha@gmail.com
 
