@@ -1,8 +1,7 @@
 ### Olá! Eu sou Matheus Guimarães👋
 ##
 
-- 🔭 Hoje trabalho como desenvolvedor front-end Salesforce
-- 🌱 Estudando Front-end e Python
+- 🔭 Hoje trabalho como desenvolvedor front-end Salesforce Commerce Cloud
 - 📫 E-mail: guimaraesmrocha@gmail.com
 
 
